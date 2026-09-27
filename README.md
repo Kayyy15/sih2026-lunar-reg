@@ -41,14 +41,6 @@ The frontend interactive demo requires zero build steps or local servers.
 2. Open `index.html` in any modern web browser (Chrome, Edge, Firefox).
 3. Use the Interactive Slider to view the sub-pixel registration output and toggle the MAGSAC match points.
 
-## 👥 Team Apex (Pillai College of Engineering)
-* **Karan Shedge** — Team Lead / Web UI & Frontend Developer
-* **Vaidai Balapure** — ML / Computer Vision Engineer
-* **Purva Lokhande** — Algorithm Specialist
-* **Sanchita Yadav** — Data Processing Specialist
-* **Shraddha Dhadas** — Pipeline Integrator
-* **Akshata Biradar** — Evaluation & Metrics Lead
-
 ## 📬 Mentors
 * **Sri. Rohit Mishra** (SAC, ISRO)
 * **Sri. Abdullah Suhail Ayyub Zinjani** (SAC, ISRO)
