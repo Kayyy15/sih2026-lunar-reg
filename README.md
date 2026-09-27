@@ -43,11 +43,11 @@ The frontend interactive demo requires zero build steps or local servers.
 
 ## 👥 Team Apex (Pillai College of Engineering)
 * **Karan Shedge** — Team Lead / Web UI & Frontend Developer
-* **[Teammate 2 Name]** — ML / Computer Vision Engineer
-* **[Teammate 3 Name]** — Algorithm Specialist
-* **[Teammate 4 Name]** — Data Processing Specialist
-* **[Teammate 5 Name]** — Pipeline Integrator
-* **[Teammate 6 Name]** — Evaluation & Metrics Lead
+* **Vaidai Balapure** — ML / Computer Vision Engineer
+* **Purva Lokhande** — Algorithm Specialist
+* **Sanchita Yadav** — Data Processing Specialist
+* **Shraddha Dhadas** — Pipeline Integrator
+* **Akshata Biradar** — Evaluation & Metrics Lead
 
 ## 📬 Mentors
 * **Sri. Rohit Mishra** (SAC, ISRO)
